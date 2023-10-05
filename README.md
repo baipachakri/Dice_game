@@ -1,1 +1,2 @@
-#<a src ="https://baipachakri.github.io/Dice_game/"> Dice_game</a>
+#Dice_game
+<a src ="https://baipachakri.github.io/Dice_game/"> click her to open</a>
