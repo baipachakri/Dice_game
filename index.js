@@ -25,3 +25,7 @@ else if(randomNumber2 > randomNumber1){
 else {
     document.querySelector("h1").innerHTML = "draw..!";
 }
+document.querySelector(".btn").addEventListener("click",reload);
+function reload(){
+    window.location.reload();
+}
